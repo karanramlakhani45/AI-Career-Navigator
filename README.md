@@ -2,7 +2,7 @@
 
 A complete full-stack web application built to help users upload their resumes, choose a target role, analyze skill gaps, calculate an ATS score, and generate personalized learning roadmaps using the Gemini AI.
 
-## Tech Stack
+## Tech Stack 
 - **Frontend**: React.js, Vite, Tailwind CSS (v4), React Router, Axios, Lucide React
 - **Backend**: Node.js, Express.js, MongoDB
 - **AI**: Google Gemini API (`@google/genai` logic via direct fetch or SDK)
